@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Feito com Amor](https://img.shields.io/badge/feito%20com-amor-red)]()
 
-<!--
-**saulo-olv/saulo-olv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Saulo
 
-Here are some ideas to get you started:
+Sou estudante da FAETEC, tenho 16 anos e tô iniciando meus estudos em programação. No momento tô aprendendo lógica com o Portugol Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### O que tô aprendendo:
+- 💡 Algoritmos e estruturas básicas com Portugol
+- 🧠 Fundamentos de lógica de programação
+
+#### Próximos passos:
+- 🔧 Criar meus primeiros algoritmos próprios
+- 📚 Explorar outras linguagens como Python
+- 🗂 Aprender Git e GitHub para organizar meus projetos
+
+---
+
+*Acompanhe minha jornada por aqui. Estou começando agora, mas aprendendo a cada dia!*
+
+---
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
